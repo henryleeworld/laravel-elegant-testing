@@ -1,4 +1,4 @@
-# Laravel 7 優雅測試
+# Laravel 8 優雅測試
 
 引入 pestphp 的 pest 套件來擴增注重簡單性。Pest 經過精心設計，將測試的樂趣帶入 PHP，測試情境也更易於閱讀和理解。
 
