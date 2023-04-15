@@ -1,4 +1,4 @@
-# Laravel 9 優雅測試
+# Laravel 10 優雅測試
 
 引入 pestphp 的 pest 套件來擴增注重簡單性。Pest 經過精心設計，將測試的樂趣帶入 PHP，測試情境也更易於閱讀和理解。
 
@@ -28,5 +28,5 @@ $ ./vendor/bin/pest
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/Wdob3UP.png)
+![](https://i.imgur.com/Uy995Wv.png)
 > 您可以以期望的優雅性和喜歡的便利性來建立測試
