@@ -28,5 +28,5 @@ $ ./vendor/bin/pest
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/tOvJAyB.png)
+![](https://i.imgur.com/6gF70VG.png)
 > 您可以以期望的優雅性和喜歡的便利性來建立測試
